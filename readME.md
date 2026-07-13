@@ -27,37 +27,7 @@ The application analyzes historical sales data, forecasts future sales, detects 
 
 **Streamlit App**
 
-(Add your Streamlit link here)
-
-Example:
-
-https://salesforecastdashboard.streamlit.app
-
----
-
-# 📸 Dashboard Preview
-
-## Sales Overview
-
-(Add Screenshot)
-
----
-
-## Forecast Explorer
-
-(Add Screenshot)
-
----
-
-## Anomaly Report
-
-(Add Screenshot)
-
----
-
-## Product Demand Segments
-
-(Add Screenshot)
+[https://salesforecastdashboard.streamlit.app](https://end-to-end-sales-forecasting-intelligent-demand-5gzlcqfvw4f5nw.streamlit.app/)
 
 ---
 
